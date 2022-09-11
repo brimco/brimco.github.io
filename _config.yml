@@ -21,10 +21,9 @@ author: Brianne McOmber
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://brimco.github.io"
+  Apps:
+    - My Food Planner: "https://brimco.github.io/myfoodplanner"
+  Home: "https://brimco.github.io"
 
 ################
 # --- Logo --- #
