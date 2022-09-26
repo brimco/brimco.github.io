@@ -6,6 +6,28 @@ subtitle: Grocery list, recipe book, and meal planning app
 
 This app was made to track your grocery list, recipes, and meal plans all in one place. It was built to save time and simplify your meal planning and keep your recipes with you any time you need them.
 
+<style>
+	#scroll {
+		overflow: auto;
+		overflow-y: hidden;
+		margin: 0 auto;
+		white-space: nowrap
+	}
+	
+	img {
+		width: 250px;
+		display: inline;
+	}
+</style>
+
+<div id="scroll">
+    <img src="./assets/img/myFoodPlanner1.png">
+    <img src="./assets/img/myFoodPlanner2.png">
+    <img src="./assets/img/myFoodPlanner3.png">
+    <img src="./assets/img/myFoodPlanner4.png">
+    <img src="./assets/img/myFoodPlanner5.png">
+</div>
+
 ## Features
 - Add your own recipes
 - Sort recipes by tags (Dessert, Quick & Easy, Favorites, etc.)
