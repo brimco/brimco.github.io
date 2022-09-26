@@ -21,11 +21,11 @@ This app was made to track your grocery list, recipes, and meal plans all in one
 </style>
 
 <div id="scroll">
-    <img src="./assets/img/myFoodPlanner1.png">
-    <img src="./assets/img/myFoodPlanner2.png">
-    <img src="./assets/img/myFoodPlanner3.png">
-    <img src="./assets/img/myFoodPlanner4.png">
-    <img src="./assets/img/myFoodPlanner5.png">
+    <img src="/assets/img/myFoodPlanner1.png">
+    <img src="/assets/img/myFoodPlanner2.png">
+    <img src="/assets/img/myFoodPlanner3.png">
+    <img src="/assets/img/myFoodPlanner4.png">
+    <img src="/assets/img/myFoodPlanner5.png">
 </div>
 
 ## Features
