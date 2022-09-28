@@ -14,7 +14,7 @@ This app was made to track your grocery list, recipes, and meal plans all in one
 		white-space: nowrap
 	}
 	
-	img {
+	#scroll > img {
 		width: 250px;
 		display: inline;
 	}
