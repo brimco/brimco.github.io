@@ -28,7 +28,7 @@ This app was made to track your grocery list, recipes, and meal plans all in one
     <img src="/assets/img/myFoodPlanner5.png">
 </div>
 
-<div style="text-align:center">
+<div style="text-align:center; margin: 50px">
     <a href="https://apps.apple.com/us/app/my-food-planner/id1635060275?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;">
         <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1664236800&h=c210f5838062c8c467ffb3c46e702b6f" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;">
     </a>
