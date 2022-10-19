@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fetched Results
-tags: [core data]
+tags: [SwiftUI, core data]
 ---
 
 Use `@FetchRequest` to get objects from your Core Data and store as a `FetchedResults` variable.
