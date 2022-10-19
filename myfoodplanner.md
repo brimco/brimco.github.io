@@ -35,7 +35,7 @@ This app was made to track your grocery list, recipes, and meal plans all in one
 </div>
 
 ## Features
-- Add your own recipes
+- Add your own recipes & upload them from your favorite websites
 - Sort recipes by tags (Dessert, Quick & Easy, Favorites, etc.)
 - Share recipes 
 - Create reusable meal plans
