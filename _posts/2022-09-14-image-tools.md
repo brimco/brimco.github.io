@@ -11,6 +11,9 @@ title: Image Tools
 [Convert Image to Grayscale](http://www.tlhiv.org/grayscale/)
 
 # SVG Files
+
+[Free SVG Images & Icons](svgrepo.com)
+
 [Edit SVGs](https://boxy-svg.com/app)
 
 [Convert SVG to PNG](https://cloudconvert.com/svg-to-png)
