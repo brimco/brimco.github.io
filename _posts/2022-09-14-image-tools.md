@@ -18,6 +18,8 @@ title: Image Tools
 
 [Convert SVG to PNG](https://cloudconvert.com/svg-to-png)
 
+To scale SVG images without becoming blurry, check the box "Preserve Vector Data" in the image inspector.
+
 # Creating App Store Images
 You can add up to 10 screenshots and 3 previews (videos) of your app for the app store. 
 
