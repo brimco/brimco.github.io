@@ -20,14 +20,16 @@ This app will assist the game moderator while you play the game Werewolf. It was
 	}
 </style>
 
+<!-- ...accidentally deleted these pictures before I could upload them...add them later if you'd like.
 <div id="scroll">
     <img src="" alt="put images here">
-<!--     <img src="/assets/img/myFoodPlanner1.png">
+    <img src="/assets/img/myFoodPlanner1.png">
     <img src="/assets/img/myFoodPlanner2.png">
     <img src="/assets/img/myFoodPlanner3.png">
     <img src="/assets/img/myFoodPlanner4.png">
-    <img src="/assets/img/myFoodPlanner5.png"> -->
+    <img src="/assets/img/myFoodPlanner5.png">
 </div>
+-->
 
 <!-- figure out link
 <div style="text-align:center; margin: 50px">
