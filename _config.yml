@@ -21,10 +21,11 @@ author: Brianne McOmber
 
 navbar-links:
   # About Me: "aboutme"
-  # Apps:
-    # - My Food Planner: "myfoodplanner"
-  Werewolf: "werewolf"
-  My Food Planner: "myfoodplanner"
+  Apps:
+    - My Food Planner: "myfoodplanner"
+    - Scorecard: "scorecard"
+    - Werewolf: "werewolf"
+  # My Food Planner: "myfoodplanner"
   Home: "https://brimco.github.io"
 
 ################
