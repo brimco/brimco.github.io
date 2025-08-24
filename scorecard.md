@@ -44,7 +44,7 @@ This app was made to track your games all in one place.
  - Save and come back to a session
  - No ads, no subscriptions, no accounts, no data collected
 
-# Paid Features
+### Paid Features
 - Store unlimited games & game sessions: You get 3 free of each, then you either need to delete existing ones, or make a one-time purchase to unlock unlimited games
 - Stats & Graphs: One-time purchase to see game & player stats, including win percentage, records, and score distributions
 
