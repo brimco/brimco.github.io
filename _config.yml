@@ -24,6 +24,7 @@ navbar-links:
   Apps:
     - My Food Planner: "myfoodplanner"
     - Scorecard: "scorecard"
+    - Bunco Buddy: "buncobuddy"
     - Werewolf: "werewolf"
   # My Food Planner: "myfoodplanner"
   Home: "https://brimco.github.io"
