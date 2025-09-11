@@ -41,6 +41,7 @@ Bunco Buddy is free download and use with zero ads or in-app payments!
 </div>
 
 ## Features
+
 - DICE BUTTONS: One button for each possible dice combo
 - ROUNDS: Proceed to the next round when you're ready
 - BUNCO ALERT: This alert of confetti and fanfare indicates when you've passed the Bunco score for the round
